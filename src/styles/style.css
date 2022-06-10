@@ -5,10 +5,12 @@ body {
   justify-content: center;
   background: rgb(2, 75, 75);
 }
+
 h1 {
   font-size: 50px;
   color: #fff;
 }
+
 p {
   font-size: 20px;
   text-align: center;
